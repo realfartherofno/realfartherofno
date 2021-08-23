@@ -45,7 +45,7 @@
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact Me</summary>
        &nbsp;&nbsp;
-       <a href="https://discord.com/users/587539085439008780">Discord: farther_of_no#0101</a>
+       <a href="https://discord.com/users/615606223051554846">Discord: farther_of_no#0101</a>
   <br>
     
 </details>
