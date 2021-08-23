@@ -46,7 +46,8 @@
   <summary style="margin-bottom: 3px">Contact Me</summary>
        &nbsp;&nbsp;
        <a href="https://discord.com/users/615606223051554846">Discord: farther_of_no#0101</a>
-  <a href="public@amazingpug.mehost.us">Email</a>
+  <p></p>
+  <p>Email: public@amazingpug.mehost.us</p>
   <br>
     
 </details>
