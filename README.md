@@ -46,7 +46,6 @@
        &nbsp;&nbsp;
        <a href="https://discord.com/users/615606223051554846">Discord: farther_of_no#0101</a>
   <p></p>
-  <p>Email: public@amazingpug.mehost.us</p>
   <br>
     
 </details>
