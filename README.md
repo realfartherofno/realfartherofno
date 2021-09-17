@@ -13,7 +13,6 @@
   <h3 align="center">Languages I know<br></h3>
   <p align="center">
   <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://www.google.com/search?q=html&rlz=1C1CHBF_enIN930IN930&oq=html&aqs=chrome..69i57j69i59j69i60l3j69i65l2.1424j0j1&sourceid=chrome&ie=UTF-8"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 </p>
   
