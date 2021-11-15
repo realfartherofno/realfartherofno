@@ -3,7 +3,7 @@
     <h1 align="center" >My profile</h1>
     <br>
     <div align="left">
-   Hey there! I'm father_of_no. I'm mostly experienced with Python, Java. I have a lot of some knowledge with Discord bots and Minecraft plugins, so if you ever need one.
+   Hey there! I'm father_of_no. I'm mostly experienced with Python, Java and C#.
     </div>
   </p>
   
