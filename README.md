@@ -2,7 +2,7 @@
   <p align="center">
     <h1 align="center" >My profile</h1>
     <br>
-    <div align="left">
+    <div align="center">
    Hey there! I'm father_of_no. I'm mostly experienced with Python, Java and C#.
     </div>
   </p>
